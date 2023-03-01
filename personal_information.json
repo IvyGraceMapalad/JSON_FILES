@@ -2,11 +2,11 @@
     "info":[
         {"Name": "IVY GRACE MAPALAD"},
         {"Age":"22"},
-        {"Favorite Quote":"TIME IS GOLD."}
+        {"quote":"TIME IS GOLD."}
     ],
     "student_info":[
-        {"Class Section":"BSIT 3C"},
-        {"Section Code":"T239"},
-        {"Buksu Email":"2001103434@student.buksu.edu.ph"}
+        {"classSection":"BSIT 3C"},
+        {"sectionCode":"T239"},
+        {"buksuEmail":"2001103434@student.buksu.edu.ph"}
     ]
 }
